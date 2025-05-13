@@ -11,7 +11,12 @@ You can check my projects, many of them were team-based ❤️
 
 ## Language and Tools 👾
 
+<img src="images/logos/c.png" alt="cpp" width="40"/>
+<img src="images/logos/python.png" alt="cpp" width="40"/>
 <img src="images/logos/cpp.png" alt="cpp" width="40"/>
+<img src="images/logos/c#.png" alt="cpp" width="40"/>
+<img src="images/logos/java.png" alt="cpp" width="40"/>
+<img src="images/logos/sql.png" alt="cpp" width="40"/>
 
 
 ## My projects 🧑🏻‍💻
