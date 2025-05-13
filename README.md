@@ -11,7 +11,10 @@ You can check my projects, many of them were team-based ❤️
 
 ## Language and Tools 👾
 
-## Projetcs 🧑🏻‍💻
+![image](https://github.com/user-attachments/assets/8a36cda0-f9d2-4908-a7ab-c7a5396ea900)
+
+
+## My projects 🧑🏻‍💻
 
 ## Contact me 📱
 
