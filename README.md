@@ -1,8 +1,7 @@
 # RASP
 ### This is my main page, check out my projects !
 
-
-## Who am I ?
+## Who am I ? 🤷🏻‍♂️
 
 Ambroise Durst, a third-year IT student from [EPITA](https://www.epita.fr).
 
@@ -10,7 +9,11 @@ Not specialized yet, I'm genuinely interested in all areas of computer science, 
 
 You can check my projects, many of them were team-based ❤️
 
-## Contact me
+## Language and Tools 👾
+
+## Projetcs 🧑🏻‍💻
+
+## Contact me 📱
 
  - mail: ambroise34.pro@gmail.com
  - linkedin: https://www.linkedin.com/in/ambroise-durst-2a334a241
